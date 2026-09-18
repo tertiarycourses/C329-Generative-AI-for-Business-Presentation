@@ -4,12 +4,12 @@
 
 [![Course](https://img.shields.io/badge/Course-C329-1f6feb?style=for-the-badge)](https://www.tertiarycourses.com.sg/generative-ai-for-business-presentation.html)
 [![Duration](https://img.shields.io/badge/Duration-1_day_·_7.5_hours-5E5E5E?style=for-the-badge)](#course-information)
-[![Activities](https://img.shields.io/badge/Activities-8-34d399?style=for-the-badge)](activities/README.md)
+[![Activities](https://img.shields.io/badge/Activities-8-34d399?style=for-the-badge)](labs/README.md)
 [![License](https://img.shields.io/badge/License-Educational-fbbf24?style=for-the-badge)](#license)
 
 **Turn a business decision into a persuasive, evidence-led deck — using generative AI for the first draft and human judgement for everything that matters.**
 
-[📘 Course Page](https://www.tertiarycourses.com.sg/generative-ai-for-business-presentation.html) · [🧪 Activities](activities/README.md) · [🎞 Slides](<courseware/Generative AI for Business Presentation-v1.0.pdf>) · [📖 Learner Guide](<courseware/LG-Generative AI for Business Presentation.pdf>)
+[📘 Course Page](https://www.tertiarycourses.com.sg/generative-ai-for-business-presentation.html) · [🧪 Activities](labs/README.md) · [🎞 Slides](<courseware/Generative AI for Business Presentation-v1.0.pdf>) · [📖 Learner Guide](<courseware/LG-Generative AI for Business Presentation.pdf>)
 
 </div>
 
@@ -67,7 +67,7 @@ Eight connected activities built on the Meridian Foods ReadyWise scenario. In th
 
 ```
 courseware/    Slide deck (PPTX + PDF), Lesson Plan and Learner Guide (DOCX + PDF)
-activities/    Eight activity folders — instructions, checklist and sample deck
+labs/            Eight activity folders — instructions, checklist and sample deck
 ```
 
 ## License
